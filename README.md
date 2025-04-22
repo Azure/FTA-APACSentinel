@@ -1,3 +1,7 @@
+# IMPORTANT
+
+With the closure of the FastTrack for Azure program, this material will no longer be updated, and is being archived.
+
 # Welcome to the FastTrack for Azure Microsoft Sentinel Call - Asia Edition
 
 ## We will start 3-4 minutes after the scheduled time to accommodate those still connecting
